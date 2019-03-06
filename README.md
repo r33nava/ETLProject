@@ -14,7 +14,7 @@ After that we were ready to load the clean CSV files into a database.
 
 # Load
 We loaded both data sets to a database in MySQL. We decided to use MySQL because the data was very structured so it would be easy to query for future analysis. It will also be easy to add to it as more games are played.
-After the process of cleaning the data for Washington D.C. crimes, we uploaded them into a MySql database for further analysis. The data was uploaded as a CSV into the MySql database using the table import wizard. This streamlined the process of moving the data into a structured database.
+After the process of cleaning the data for Washington D.C. crimes, we uploaded them into a MySQL database for further analysis. The data was uploaded as a CSV into the MySQL database using the table import wizard. This streamlined the process of moving the data into a structured database.
 
 The heat maps were created using gmaps. During the process of creating the heat maps, the data was broken down by types of crimes. This allowed the ability to create individual heat maps that details areas were certain types of crime happen the most.
 
