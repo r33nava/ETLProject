@@ -1,5 +1,3 @@
-# ETLProject
-
 # Washington D.C. Crimes 2019 - ETL
 
 # Extract
