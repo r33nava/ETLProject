@@ -19,5 +19,5 @@ After the process of cleaning the data for Washington D.C. crimes, we uploaded t
 The heat maps were created using gmaps. During the process of creating the heat maps, the data was broken down by types of crimes. This allowed the ability to create individual heat maps that details areas were certain types of crime happen the most.
 
 # Analysis
-For the analysis, we drew a relationship between the type of crimes that occur and the average family income (based of 2015 data). Ward 2 has the most amount of crimes so far in 2019 and it has the highest average family income. So far in 2019, 91% (1012/1117) of crimes in Ward 2 are theft related. However, further analysis needs to be concluded if there is a strong relationship between the type of crimes that occur and the average family income in Washington D.C.    
+For the analysis, we drew a relationship between the type of crimes that occur and the average family income (based of 2015 data). Ward 2 has the most amount of crimes so far in 2019 and it has the highest average family income. So far in 2019, 91% (1012/1117) of crimes in Ward 2 are theft related. However, further analysis needs to be conducted to determine if there is a strong relationship between the type of crimes that occur and the average family income in Washington D.C.    
 
